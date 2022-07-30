@@ -1,0 +1,8 @@
+com.spring.Controller.GasController=org.springframework.stereotype.Component
+com.spring.Controller.MyController=org.springframework.stereotype.Component
+com.spring.Dao.GasBookingDaoImpl=org.springframework.stereotype.Component,javax.transaction.Transactional
+com.spring.Dao.LoginDaoImpl=org.springframework.stereotype.Component
+com.spring.Service.GasBookingServiceImpl=org.springframework.stereotype.Component
+com.spring.Service.LoginServiceImpl=org.springframework.stereotype.Component
+com.spring.model.Customer=javax.persistence.Entity,javax.persistence.Table
+com.spring.model.Gas=javax.persistence.Entity,javax.persistence.Table
